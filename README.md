@@ -1,6 +1,6 @@
-# FileSharing Frontend
+# ShareWithEase Frontend
 
-This is the frontend for FileSharing, a file sharing application. It provides a user-friendly interface for uploading files and generating shareable download links.
+This is the frontend for ShareWithEase, a file sharing application. It provides a user-friendly interface for uploading files and generating shareable download links.
 
 ## Technologies Used
 
